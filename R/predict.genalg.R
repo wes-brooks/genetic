@@ -1,4 +1,4 @@
-predict.galm <-
+predict.genalg <-
 function(obj, newx, ...) {
     predictors = obj[['vars']]
     data = newx[,predictors]

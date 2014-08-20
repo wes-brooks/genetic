@@ -1,4 +1,4 @@
-Package: galm
+Package: genetic
 Type: Package
 Title: Builds a linear model using the genetic algorithm for variable selection
 Version: 0.1
