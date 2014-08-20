@@ -1,10 +1,10 @@
 Package: genetic
 Type: Package
-Title: Builds a linear model using the genetic algorithm for variable selection
+Title: Builds a regression model using the genetic algorithm for variable selection
 Version: 0.1
-Date: 2012-07-31
+Date: 2014-08-13
 Author: Wesley Brooks
 Maintainer: Wesley Brooks <wrbrooks@usgs.gov>
-Description: Builds a linear model using the genetic algorithm for variable selection
+Description: Builds a regression model using the genetic algorithm for variable selection
 License: GPL-3
 Depends: R
